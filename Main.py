@@ -41,4 +41,4 @@ navegador.find_element('xpath', '//*[@id="finish"]').click()
 
 # Retorna a página de compras
 navegador.find_element('xpath', '//*[@id="back-to-products"]')
-time.sleep(10000)
+time.sleep(100)
